@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishi0814
+- 👋 Hi, I’m Rishi
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Nodejs
 
